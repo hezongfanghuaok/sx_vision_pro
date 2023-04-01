@@ -21,3 +21,11 @@ E:\github\Vision_project\Vision_Utils_pro\Vision_Utlisplus\obj\Debug\Vision_Utli
 E:\github\Vision_project\Vision_Utils_pro\Vision_Utlisplus\obj\Debug\Vision_Utlisplus.csproj.CopyComplete
 E:\github\Vision_project\Vision_Utils_pro\Vision_Utlisplus\obj\Debug\Vision_Utlis.dll
 E:\github\Vision_project\Vision_Utils_pro\Vision_Utlisplus\obj\Debug\Vision_Utlis.pdb
+E:\github\sx_vision_pro\Vision_Utils_pro\Vision_Utlis_test\bin\Debug\log4App.config
+E:\github\sx_vision_pro\Vision_Utils_pro\Vision_Utlis_test\bin\Debug\Vision_Utlis.dll
+E:\github\sx_vision_pro\Vision_Utils_pro\Vision_Utlis_test\bin\Debug\Vision_Utlis.pdb
+E:\github\sx_vision_pro\Vision_Utils_pro\Vision_Utlisplus\obj\Debug\Vision_Utlisplus.csprojAssemblyReference.cache
+E:\github\sx_vision_pro\Vision_Utils_pro\Vision_Utlisplus\obj\Debug\Vision_Utlisplus.csproj.CoreCompileInputs.cache
+E:\github\sx_vision_pro\Vision_Utils_pro\Vision_Utlisplus\obj\Debug\Vision_Utlisplus.csproj.CopyComplete
+E:\github\sx_vision_pro\Vision_Utils_pro\Vision_Utlisplus\obj\Debug\Vision_Utlis.dll
+E:\github\sx_vision_pro\Vision_Utils_pro\Vision_Utlisplus\obj\Debug\Vision_Utlis.pdb
